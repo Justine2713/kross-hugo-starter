@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Justine"
+title = "Justine and Co"
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -21,10 +21,10 @@ name = "Contact"
 weight = 5
 [params]
 address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
+author = "Justine Letellier "
 copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
-email = "steve.fruits@email.com"
+description = "Justine and co réalise la production de l’ensemble de votre stand d’exposition. Expert de la création et de l'aménagement de stands personnalisés depuis 2020. Expert depuis 20020. Testé par grandes marques. Offre personnalisée. France et Internationnal"
+email = "Justine@email.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/logo.png"
@@ -51,6 +51,9 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
+URL = ""
+icon = ""
+[[params.social]]
 URL = "#"
 icon = "ti-facebook"
 [[params.social]]
@@ -59,6 +62,3 @@ icon = "ti-instagram"
 [[params.social]]
 URL = "#"
 icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
